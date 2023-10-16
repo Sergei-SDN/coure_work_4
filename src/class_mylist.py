@@ -1,5 +1,6 @@
 from src.class_save_csv import Saver
 
+
 class Mylist:
     """
     Этот класс для работы со списком вакансий.
